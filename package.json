@@ -1,0 +1,23 @@
+{
+  "name": "mango-tdd",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/joaowanderley/node-clean-tdd.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/joaowanderley/node-clean-tdd/issues"
+  },
+  "homepage": "https://github.com/joaowanderley/node-clean-tdd#readme",
+  "devDependencies": {
+    "standard": "^14.3.4"
+  }
+}
